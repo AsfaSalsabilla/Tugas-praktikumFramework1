@@ -46,7 +46,6 @@
     <!-- Gambar -->
     <img src="{{ asset('framework.png') }}" alt="Logo Laravel" width="200">
 
-
     <h1>Framework Web</h1>
     <p>Framework web adalah <b>kerangka kerja</b> yang membantu developer membangun website atau aplikasi web dengan lebih cepat, terstruktur, dan mudah dipelihara ibaratnya seperti pondasi dan peralatan siap pakai, sehingga tidak perlu membuat semuanya dari nol.</p>
 
@@ -69,7 +68,7 @@
 
     <!-- JavaScript -->
     <script>
-        console.log("Halaman Home berhasil dimuat ✅");
+        console.log("Selamat Datang di halaman Home");
     </script>
 </body>
 </html>

@@ -46,7 +46,6 @@
     <!-- Gambar -->
     <img src="{{ asset('framework.png') }}" alt="Logo Laravel" width="200">
 
-
     <h1>Laravel Framework</h1>
     <p>
         <b>Laravel</b> adalah salah satu framework PHP paling populer untuk membangun aplikasi web modern.
@@ -73,8 +72,7 @@
 
     <!-- JavaScript -->
     <script>
-        alert("Selamat datang di Halaman Laravel 🚀");
-        console.log("Halaman Laravel berhasil dimuat ✅");
+        console.log("Selamat datang di Halaman Laravel");
     </script>
 </body>
 </html>
