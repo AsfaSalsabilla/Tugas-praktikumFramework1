@@ -17,17 +17,25 @@
         nav a {
             margin: 0 10px;
             text-decoration: none;
-            color: #3498db;
+            color: #f2b7b6;
             font-weight: bold;
         }
         nav a:hover {
-            color: #e67e22;
+            color: #e8fff3;
         }
         h1 {
-            color: #e74c3c;
+            color: #f2b7b6;
+        }
+        h2{
+            color: #f2b7b6;
+        }
+        p{
+            text-align: justify;
+            margin: 15px auto;
+            max-width: 800px;
         }
         ul {
-            text-align: left;
+            text-align: justify;
             display: inline-block;
         }
         img {

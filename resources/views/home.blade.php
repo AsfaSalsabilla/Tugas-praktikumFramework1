@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            background-color: #f9f9f9;
+            background-color: #F2F5ED;
             text-align: center;
         }
         nav {
@@ -17,14 +17,22 @@
         nav a {
             margin: 0 10px;
             text-decoration: none;
-            color: #3498db;
+            color: #7a9c57;
             font-weight: bold;
         }
         nav a:hover {
-            color: #e67e22;
+            color: #afcfa3;
         }
         h1 {
-            color: #2c3e50;
+            color: #7a9c57;
+        }
+        h2{
+            color: #7a9c57
+        }
+        p{
+            text-align: justify;
+            margin: 15px auto;
+            max-width: 800px;
         }
         ul {
             text-align: left;
